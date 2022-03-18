@@ -14,4 +14,4 @@
 > WHY YOU USE THE MIT LICENCE? USE THE BASED LICENCE.
 - _From Anmol_
 ![alt text](https://media.discordapp.net/attachments/776063474857934861/953987672509120522/IMG_20220317_173617.jpg)
-### p.s you should totally join this server 
+
