@@ -1,5 +1,5 @@
 
-# TheEpicDragons.github.io
+#https://TheEpicDragons.github.io/
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### What its supposed to be?
@@ -9,4 +9,5 @@
 - [ ] add a page for the index.php thing
 ## Done
 - [x] make a dum working background :|
+
 
