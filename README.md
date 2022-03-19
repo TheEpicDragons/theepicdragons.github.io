@@ -7,7 +7,9 @@
 ## ToDo
 - [ ] Make a custom 404 page
 - [ ] add a page for the index.php thing
-- [ ] make a dum working background :|
+## Done
+- [x] make a dum working background :|
+
 ### ~~Anmol made me use the Based license~~
 
 
