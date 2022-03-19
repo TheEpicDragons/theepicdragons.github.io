@@ -4,7 +4,7 @@ body {
 
 .header-image {
 	background: url(images/firey.jpeg) repeat;/* Use a tiling background image or a full width image - if you're using full width you will need to change no-repeat center center cover  */
-	background-position: top;
+	background-position: center;
 	height: auto;
 	display: block;
 	width: 100%;
