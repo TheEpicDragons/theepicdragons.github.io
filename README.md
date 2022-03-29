@@ -1,6 +1,5 @@
 ## Website Work in Progress
 - will be finished soon!
-## 
-ToDo
+## ToDo
 -[] make basic working page
 -[x] starting up this website!
