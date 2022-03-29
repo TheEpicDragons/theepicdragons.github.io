@@ -1,3 +1,2 @@
-why is github aways high tryna update stuff
-## ToDo
- No todos yet
+## Website Work in Progress
+- will be finished soon!
