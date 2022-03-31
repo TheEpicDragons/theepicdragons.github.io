@@ -2,9 +2,9 @@
 <html>
 
 <head>
-  <title>my portfolio two</title>
-  <meta name="description" content="website description" />
-  <meta name="keywords" content="website keywords, website keywords" />
+  <title>Contact</title>
+  <meta name="contacts" content="ok?" />
+  <meta name="Hi" content="something cool" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <!-- modernizr enables HTML5 elements and feature detects -->
@@ -44,8 +44,8 @@
           // 1. Enter the email address you would like the enquiry sent to
           // 2. Enter the subject of the email you will receive, when someone contacts you
           // 3. Enter the text that you would like the user to see once they submit the contact form
-          $to = 'email@emailaddress.com';
-          $subject = 'Enquiry from the website';
+          $to = 'yasshdutta@gmail.com';
+          $subject = 'Contact from le site';
           $contact_submitted = 'Your message has been sent.';
 
           // Do not amend anything below here, unless you know PHP
