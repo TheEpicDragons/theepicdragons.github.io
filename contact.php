@@ -14,7 +14,7 @@
 <body>
   <div id="main">
     <header>
-      <div id="logo"><h1>MY<a href="#">PORTFOLIO</a>TWO</h1></div>
+      <div id="logo"><h1>MY <a href="#">contact </a>woosh</h1></div>
       <nav>
         <ul class="lavaLampWithImage" id="lava_menu">
           <li><a href="index.html">home</a></li>

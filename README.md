@@ -5,4 +5,5 @@
 - [x] starting up this website!
 - [ ] make sure nothings broken like my life!
 ### why markdown sooo broken
-#### Note from anmol - bcuz yes
+#### Note from Anmol - bcuz yes
+- [x] Anmol is very sussy
