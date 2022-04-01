@@ -12,6 +12,5 @@
 - he very much is sussy
 # p.s.
 ### The website is hosted too
-- http://d4rag0niz3d.tk/
-- https enforcement soon uwu
+- https://d4rag0niz3d.tk/
 
