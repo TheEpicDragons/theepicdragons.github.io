@@ -10,6 +10,7 @@
 #### Note from Anmol - bcuz yes
 - [x] Anmol is very sussy
 - he very much is sussy
+- [x] FiFi bhery sus
 # p.s.
 ### The website is hosted too
 - https://d4rag0niz3d.tk/
