@@ -4,8 +4,8 @@
 - [x] make basic working page
 - [x] starting up this website!
 - [ ] make sure nothings broken like my life!
-- [ ] make site mobile friendly
-- [ ] make sure contact.php actually works or yeet it if I fail to fix it
+- [x] make site mobile friendly
+- [x] make sure contact.php actually works or yeet it if I fail to fix it
 ### why markdown sooo broken
 #### Note from Anmol - bcuz yes
 - [x] Anmol is very sussy
