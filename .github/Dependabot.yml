@@ -12,7 +12,7 @@ updates:
       interval: "daily"
 
   # Enable version updates for Docker
-  - package-ecosystem: "jQuery"
+  - package-ecosystem: "tsparticles-engine"
     # Look for a `Dockerfile` in the `root` directory
     directory: "js/"
     # Check for updates once a week
