@@ -1,3 +1,4 @@
+
 const ID = "bongo-cat";
 const s = (selector: string) => `#${ID} ${selector}`;
 const notes = document.querySelectorAll(".note");
