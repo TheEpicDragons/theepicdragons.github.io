@@ -7,6 +7,8 @@
     position: absolute;
     z-index: 2;
     width: 100vw;
+    justify-content: center;
+    align-items: center;
 }
 
 body{
@@ -16,6 +18,7 @@ body{
     background-color: #000000;
     color: #7A7C80;
     position: relative;
+    display: flex;
 }
 
 h2,.white{
@@ -28,7 +31,6 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
     text-align: center;
 }
 
@@ -49,7 +51,6 @@ a{
 }
 /* section 2 */
 .section-2{
-    padding-top: 10vh;
     width: 70%;
 }
 
@@ -109,4 +110,6 @@ a{
 #particles-js {
     position: absolute;
     z-index: 1;
+    display: flex;
+    align-items: center;
 }
