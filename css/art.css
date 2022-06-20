@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+}
+
+.embed-container {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 40px auto;
+}
+
+iframe {
+    width: 100vw;
+    height: 100%;
+    border: 0;
+}
+
+.embed-back {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.embed-back svg {
+    height: 25px;
+    margin: 6px;
+    color: white;
+}
