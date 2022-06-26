@@ -1,6 +1,25 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+@keyframes pageload {
+    0% {
+        transform: translateY(80px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes pageload2 {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -9,7 +28,9 @@
     width: 100vw;
     justify-content: center;
     align-items: center;
+    animation: pageload 0.4s ease;
 }
+
 
 body{
     margin: 0;
@@ -112,4 +133,8 @@ a{
     z-index: 1;
     display: flex;
     align-items: center;
+}
+
+canvas {
+    animation: pageload2 0.5s ease;
 }

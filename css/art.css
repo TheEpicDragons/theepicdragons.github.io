@@ -22,8 +22,40 @@ iframe {
     color: white;
 }
 
-.embed-back svg {
-    height: 25px;
-    margin: 6px;
-    color: white;
+.embed-back a {
+    margin: calc(5vw + 8px);
+    padding: 6px 12px;
+    border-radius: 1vmax;
+    background-color: #ffffff;
+    color: rgb(22, 22, 22);
+    font-weight: bolder;
+    transition: all 0.4s ease;
+    position: relative;
+}
+
+.embed-back a:hover {
+    color: #ffffff;
+    background-color: transparent;
+}
+
+.embed-back a::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    width: 0%;
+    height: 3px;
+    background-color: #ffffff;
+    transition: all 0.3s ease 0.3s;
+}
+
+.embed-back a:hover::before {
+    content: "";
+    position: absolute;
+    /*align to the center*/
+    bottom: 0;
+    left: 10%;
+    width: 80%;
+    height: 3px;
+    background-color: #ffffff;
 }
