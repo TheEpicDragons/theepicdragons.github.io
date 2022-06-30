@@ -116,6 +116,7 @@ a{
 @media(max-width:780px){
     .grid-2{
         grid-template-columns: 1fr;
+        margin-top: 20vh;
     }
     .section-1{
         padding:0;
