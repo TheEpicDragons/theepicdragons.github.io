@@ -37,6 +37,7 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #000000;
+    opacity: 0;
     color: #7A7C80;
     position: relative;
     display: flex;
@@ -46,9 +47,17 @@ h2,.white{
     color: #fff;
 }
 
-a{
+button {
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: start;
+}
+
+a, button{
     color: #7A7C80;
     text-decoration: none;
+    background-color: transparent;
+    border: 0;
 }
 /* section 1 */
 .section-1{
@@ -66,7 +75,7 @@ a{
     margin-bottom: 10px;
 }
 
-.section-1 a{
+.section-1 a, .section-1 button {
     font-size: 1.5rem;
     padding: 10px;
 }
@@ -86,7 +95,7 @@ a{
     margin:0;
 }
 
-.section-2 a{
+.section-2 a, .section-2 button {
     display: block;
     padding: 5px;
     font-size: 1.2rem;
@@ -94,14 +103,14 @@ a{
     width: 100px;
 }
 /* animations / utilities */
-.section-2 a:hover{
+.section-2 a:hover, .section-2 button:hover{
     font-size: 1.3rem;
     color: #fff;
     cursor: pointer;
     transition: 0.2s;
 }
 
-.section-1 a:hover{
+.section-1 a:hover, .section-1 button:hover{
     color: #fff;
     cursor: pointer;
     transition: 0.3s;
